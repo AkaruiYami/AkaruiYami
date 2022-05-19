@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AkaruiYami
 - 👀 I’m interested in Game Development
-- 🌱 I’m currently learning many thing
+- 🌱 I’m currently learning many thing~
 - 📫 How to reach me:
 ```Email: yaminocode@gmail.com```
 

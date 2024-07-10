@@ -13,7 +13,7 @@ Well, here a summary of my interest:
 
 -   👀 I’m interested in Game Development
 -   💫 I also interested in AI
--   🌱 I’m love playing games! I currently enjoy Valorant, Overwatch2 and Minecraft!
+-   🌱 I’m love playing games! I currently enjoy Valorant, and Minecraft! I also play puzzle games time to time~
 
 -   📫 How to reach me:
     `Email: yaminocode@gmail.com`

@@ -5,7 +5,7 @@ Yaho there 👋. My name is AkaruiYami. You may call me Aka or Yami. I hope this
 # A Bit about Me!
 
 Well... I mostly coding in python. I also know a liltle bit of C++ and Java.
-Currently, I'm still doing my degree in AI Engineering.
+Currently, I'm doing my intership.
 
 I also have a youtube channel. I really hope one day I can speak English comfortabably.
 

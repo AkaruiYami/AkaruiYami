@@ -49,6 +49,10 @@ Well, here a summary of my interest:
 
 I also have a youtube channel. I really hope one day I can speak English comfortabably.
 
+[![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/AkaruiYamiCode)](https://x.com/AkaruiYamiCode)
+[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCS_MEhU_i7IEJxF_alaztzw)](https://www.youtube.com/@akaruiyamicode)
+
+
 <!---
 AkaruiYami/AkaruiYami is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
